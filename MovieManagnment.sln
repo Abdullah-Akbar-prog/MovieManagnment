@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieManagnment.API", "MovieManagnment.API\MovieManagnment.API.csproj", "{A41506DD-E573-4FE2-8661-C8F0F9A4CDB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieManagnment.Domain", "MovieManagnment.Domain\MovieManagnment.Domain.csproj", "{89D00646-60EC-4AB4-9B3E-983268B06F31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieManagnment.DataAccess", "MovieManagnment.DataAccess\MovieManagnment.DataAccess.csproj", "{CCE4FFFA-30F5-4A29-BB4B-578941EC0D9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A41506DD-E573-4FE2-8661-C8F0F9A4CDB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A41506DD-E573-4FE2-8661-C8F0F9A4CDB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A41506DD-E573-4FE2-8661-C8F0F9A4CDB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A41506DD-E573-4FE2-8661-C8F0F9A4CDB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89D00646-60EC-4AB4-9B3E-983268B06F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D00646-60EC-4AB4-9B3E-983268B06F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D00646-60EC-4AB4-9B3E-983268B06F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D00646-60EC-4AB4-9B3E-983268B06F31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCE4FFFA-30F5-4A29-BB4B-578941EC0D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE4FFFA-30F5-4A29-BB4B-578941EC0D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE4FFFA-30F5-4A29-BB4B-578941EC0D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE4FFFA-30F5-4A29-BB4B-578941EC0D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
