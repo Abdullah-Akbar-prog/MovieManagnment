@@ -34,5 +34,4 @@ Implementing the Generic Repository Pattern and Unit of Work provides the follow
 - Establish and use Entity Framework Relationships efficiently
 
 # Happy coding! 🚀
-I need to highlight these ==very important words==.
 
