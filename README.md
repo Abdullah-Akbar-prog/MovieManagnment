@@ -1,4 +1,4 @@
-#Generic Repository Pattern & Unit of Work with Entity Framework
+# Generic Repository Pattern & Unit of Work with Entity Framework
 OverviewWelcome to this repository! In this project, we implement the Generic Repository Pattern and Unit of Work using Entity Framework. Additionally, we explore Entity Framework relationships such as:
 One-to-Many
 One-to-One
