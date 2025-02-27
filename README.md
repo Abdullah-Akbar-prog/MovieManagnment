@@ -19,13 +19,18 @@ Implementing the Generic Repository Pattern and Unit of Work provides the follow
 - .NET Core SDK
 - Entity Framework Core
 - SQL Server (or any preferred database)
-InstallationClone this repository:
-git clone https://github.com/your-username/repository-name.gitNavigate to the project directory:
-cd repository-nameRestore dependencies:
-dotnet restoreApply migrations and update the database:
-dotnet ef database updateUsageImplement repositories using the Generic Repository Pattern
-Manage transactions using Unit of Work
-Establish and use Entity Framework Relationships efficiently
-ContributingContributions are welcome! Feel free to submit pull requests and report issues.
-LicenseThis project is licensed under the MIT License.
-Happy coding! 🚀
+## Installation
+-- Clone this repository:
+== git clone https://github.com/your-username/repository-name.git
+-- Navigate to the project directory:
+== cd repository-name
+-- Restore dependencies:
+== dotnet restore
+--Apply migrations and update the database:
+== dotnet ef database update
+## Usage
+- Implement repositories using the Generic Repository Pattern
+- Manage transactions using Unit of Work
+- Establish and use Entity Framework Relationships efficiently
+
+# Happy coding! 🚀
