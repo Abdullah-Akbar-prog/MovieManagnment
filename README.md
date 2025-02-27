@@ -1,9 +1,9 @@
 # Generic Repository Pattern & Unit of Work with Entity Framework
 ## Overview
-Welcome to this repository! In this project, we implement the ** Generic Repository **Pattern and Unit of Work using Entity Framework. Additionally, we explore Entity Framework relationships such as:
-One-to-Many
-One-to-One
-Many-to-Many
+Welcome to this repository! In this project, we implement the **Generic Repository** Pattern and **Unit of Work** using **Entity Framework**. Additionally, we explore Entity Framework relationships such as:
+-One-to-Many
+-One-to-One
+-Many-to-Many
 Benefits of Using This PatternImplementing the Generic Repository Pattern and Unit of Work provides the following advantages:
 Reduces code redundancy
 Encourages a consistent development pattern
